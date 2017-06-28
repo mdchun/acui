@@ -1,7 +1,7 @@
 {
   "name": "acui",
   "version": "0.1.0",
-  "description": "** accumulate react ui **",
+  "description": "基于react组件库",
   "main": "build/index.js",
   "scripts": {
     "build": "webpack --display--error--details",
