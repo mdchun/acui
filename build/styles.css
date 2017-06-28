@@ -1,0 +1,11 @@
+.tLoadMore {
+  font-size: 14px;
+  color: #999; }
+  .tLoadMore .noMore {
+    color: #ccc; }
+  .tLoadMore .loading {
+    color: #008000; }
+.time {
+  display: block; }
+
+/*# sourceMappingURL=styles.css.map*/
