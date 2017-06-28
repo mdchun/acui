@@ -1,5 +1,5 @@
 {
-  "name": "AMUI",
+  "name": "acui",
   "version": "0.1.0",
   "description": "** accumulate react ui **",
   "main": "build/index.js",
@@ -17,7 +17,7 @@
     "react-UI",
     "react-components"
   ],
-  "author": "mdchun",
+  "author": "madechun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mdchun/AMUI/issues"
