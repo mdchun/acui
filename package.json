@@ -1,6 +1,6 @@
 {
   "name": "AMUI",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "** accumulate react ui **",
   "main": "build/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "react-UI",
     "react-components"
   ],
-  "author": "",
+  "author": "mdchun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mdchun/AMUI/issues"
