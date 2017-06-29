@@ -15,3 +15,6 @@ import acui from 'acui'
 ```
 
 ## 待更新...
+
+[npm-image]: https://img.shields.io/npm/v/acui.svg
+[npm-url]: https://www.npmjs.com/package/acui
