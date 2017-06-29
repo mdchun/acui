@@ -1,4 +1,4 @@
-# acui
+# acui [![][npm-image]][npm-url]
 
 ## 基于react的组件库整理
 
