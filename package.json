@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdchun/AMUI.git"
+    "url": "git+https://github.com/mdchun/acui.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "madechun",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdchun/AMUI/issues"
+    "url": "https://github.com/mdchun/acui/issues"
   },
-  "homepage": "https://github.com/mdchun/AMUI#readme",
+  "homepage": "https://github.com/mdchun/acui#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
     "babel-preset-stage-0": "^6.24.1",
